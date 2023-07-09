@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning C/C++
 - 🌱 I'm currently learning OOP
+- 🌱 I'm currently learning GoLang
+- 🔭 I’m currently studing BlockChain and Web 3.0
 
 
 <!--
@@ -10,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
