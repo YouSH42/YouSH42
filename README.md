@@ -2,7 +2,6 @@
 
 
 - 🌱 I’m currently learning C/C++
-- 🌱 I'm currently learning OOP
 - 🌱 I'm currently learning GoLang
 
 
