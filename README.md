@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning C/C++
 - 🌱 I'm currently learning python
+- 🌱 I'm currently learning react
 
 
 
